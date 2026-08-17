@@ -27,7 +27,7 @@ focus on smooth playback and a clean listening experience.
 ### Installation
 1. Clone the repo
 ```bash
-   git clone 
+   git clone https://github.com/Devendra-IT-Tech/Fiux-music-app.git
 ```
 2. Open in Android Studio
 3. Sync Gradle and run
